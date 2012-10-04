@@ -61,3 +61,23 @@ matched in sRGB space.
     blue      #268bd2  4/4 blue      33 #0087ff 55 -10 -45  38 139 210 205  82  82
     cyan      #2aa198  6/6 cyan      37 #00afaf 60 -35 -05  42 161 152 175  74  63
     green     #859900  2/2 green     64 #5f8700 60 -20  65 133 153   0  68 100  60
+
+The RGB values that show up in the Apple color picker are:
+
+    SOLARIZED RGB
+    --------- -----------
+    base03      0  30  39 
+    base02      0  40  49
+    base01     71  91  98
+    base00     83 104 112
+    base0     112 130 132
+    base1     129 144 144
+    base2     234 227 203
+    base3     252 244 220
+    
+    
+    
+    
+    
+    
+    
