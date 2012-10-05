@@ -1,4 +1,6 @@
-f = open('Solarized (Dark)-modified.tmTheme', 'r')
+# This is a script that takes the inverse of the dark theme
+# to create the light theme.
+f = open('Solarized (dark)-modified.tmTheme', 'r')
 g = open('Solarized (light)-modified.tmTheme', 'w')
 
 replaceDict = {'#002B36': '#FDF6E3',
