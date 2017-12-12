@@ -18,11 +18,11 @@ Alternate Palette
 
 NOT FOR USE UNLESS YOU UNDERSTAND THE HELL THAT IS COLOR MANAGEMENT.
 
-The `alternate palettes` directory contains two Apple Color Picker palettes.  
+The `alternate palettes` directory contains three Apple Color Picker palettes.
 The "tagged" palette is identical to the main Solarized.clr palette. The 
 untagged palette contains untagged sRGB values (Apple calls untagged values 
-"device colors").  Don't use this unless you are using an application that 
-otherwise can't handle tagged values.
+"device colors"). Don't use this unless you are using an application that 
+otherwise can't handle tagged values. The sRGB palette contains IEC sRGB colors.
 
 An example: If you are a web developer working on OS X and you wish to use one 
 of the Solarized hex values, you have a couple choices:
